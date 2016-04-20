@@ -28,6 +28,7 @@ public class Dog {
 		Dog t1=new Dog();
 		System.out.println(t.getAge());
 		System.out.println(t1.getAge());
+		System.out.println("hi");
 		
 	}
 }
