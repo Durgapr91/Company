@@ -24,7 +24,7 @@ public class Dog {
 	
 	public static void main(String []args)
 	{
-		Dog t=new Dog(10);
+		Dog t=new Dog(8);
 		Dog t1=new Dog();
 		System.out.println(t.getAge());
 		System.out.println(t1.getAge());
